@@ -1,5 +1,4 @@
 [![Django CI](https://github.com/Goldenhubuz/DjangoSQLite/actions/workflows/django.yml/badge.svg?branch=main)](https://github.com/Goldenhubuz/DjangoSQLite/actions/workflows/django.yml)
-[![wakatime](https://wakatime.com/badge/user/49489c61-f548-4cec-982d-e443f9ca894f/project/b57978d6-bf53-45e7-a56e-e1efe5440226.svg)](https://wakatime.com/badge/user/49489c61-f548-4cec-982d-e443f9ca894f/project/b57978d6-bf53-45e7-a56e-e1efe5440226)
 
 # DjangoSQLite
 
